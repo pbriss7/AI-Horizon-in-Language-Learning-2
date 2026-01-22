@@ -13,6 +13,7 @@ Objectifs principaux :
 ## **Structure du dépôt**
 
 -   `exercices/` : exemples de textes à corriger et de message système.
+-   `Ollama_AnythingLLM_Atelier1/` : présentation du premier atelier portant sur Ollama et les LLM ouverts.
 
 ## **Pré-requis pour les participant·es**
 
