@@ -22,6 +22,6 @@ Objectifs principaux :
 
 -   Avoir accès soit :
 
-    -   à LeChat (Mistral) via un navigateur, ou
+    -   à CoPilot (Entreprise) à travers un navigateur, ou
 
     -   à un environnement avec un modèle ouvert (p. ex. Ollama + AnythingLLM).
