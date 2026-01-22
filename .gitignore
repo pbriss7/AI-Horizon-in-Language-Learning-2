@@ -1,0 +1,8 @@
+.DS_Store
+*.swp
+*.tmp
+*.qmd
+*.Rhistory
+.Rproj.user
+Presentation_files/
+images/
