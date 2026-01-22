@@ -10,13 +10,9 @@ Objectifs principaux :
 
 -   Découvrir la notion d'« agent » et observer le comportement d'un agent correcteur (RAG) centré sur la correction linguistique.
 
--   Donner aux participant·es des modèles d'invites réutilisables avec LeChat (Mistral) ou avec des modèles ouverts (Ollama + OpenWebUI).
-
 ## **Structure du dépôt**
 
--   `plan_atelier.md` : déroulé détaillé des 90 minutes.
-
--   `exercices/` : activités pas-à-pas pour expérimenter avec les invites.
+-   `exercices/` : exemples de textes à corriger et de message système.
 
 ## **Pré-requis pour les participant·es**
 
